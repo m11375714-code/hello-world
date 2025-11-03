@@ -1,3 +1,2 @@
 # hello-world
 hello world project for github excercises
-Authur:Ray Chen
